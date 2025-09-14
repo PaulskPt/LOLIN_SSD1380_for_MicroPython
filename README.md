@@ -44,6 +44,8 @@ For EPD object:
 
 ```
 
+## Image: [here](https://github.com/PaulskPt/LOLIN_SSD1380_for_MicroPython/blob/main/images/20250914_141003.jpg)
+
 ## Notes about the dimensions of this display
 
 On internet I found much confusion about the dimensions of this display.
