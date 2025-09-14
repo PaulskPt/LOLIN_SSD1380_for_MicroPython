@@ -44,7 +44,12 @@ For EPD object:
 
 ```
 
-## Image: [here](https://github.com/PaulskPt/LOLIN_SSD1380_for_MicroPython/blob/main/images/20250914_141003.jpg)
+## Image: 
+
+[here](https://github.com/PaulskPt/LOLIN_SSD1380_for_MicroPython/blob/main/images/20250914_141003.jpg)
+
+## Example 
+[here](https://github.com/PaulskPt/LOLIN_SSD1380_for_MicroPython/blob/main/example/Lolin_EPD_test_by_MS_Copilot_v2.py)
 
 ## Notes about the dimensions of this display
 
