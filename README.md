@@ -15,6 +15,7 @@ Translation by Microsoft Copilot on directions and feedback by me, Paulus Schuli
 ## Wiring
 
 a. Solder the 8-pin header onto the e-Paper board. 
+
 b. connect the eight jumper wires refered at 3) above to make the connection between the Pico LiPo 2XL W board and the e-Paper display board:
 
 ```
