@@ -64,6 +64,6 @@ General/Power:
 
 On internet I found much confusion about the dimensions of this display.
 On the back of my Lolin 2.13 inch e-Paper display is written "250x122" and that are the dimensions I use in this MicroPython example.
-The same dimensions I used in an Arduino sketch. 250 x 122 px works OK with the board I use.
+The same dimensions I used in an Arduino sketch. 250 x 122 px works fine with this Lolin ePD.
 
 
