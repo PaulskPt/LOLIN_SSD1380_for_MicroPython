@@ -2,7 +2,7 @@
 
 ## Intro
 
-This Micropython library is translated from the Wemos LOLIN_EPD_Library [repo](https://github.com/wemos/LOLIN_EPD_Library).
+This Micropython library is a translation from the Wemos LOLIN_EPD_Library [repo](https://github.com/wemos/LOLIN_EPD_Library).
 Translation by Microsoft Copilot on directions and feedback by me, Paulus Schulinck (Github handle: @PaulskPt).
 
 ## Hardware used
